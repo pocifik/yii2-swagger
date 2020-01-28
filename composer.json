@@ -1,5 +1,5 @@
 {
-    "name": "yii2mod/yii2-swagger",
+    "name": "pocifik/yii2-swagger",
     "description": "Swagger Documentation Generator for Yii2 Framework",
     "type": "yii2-extension",
     "keywords": [
