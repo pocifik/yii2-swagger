@@ -20,14 +20,15 @@ class SwaggerAsset extends AssetBundle
      * @var array list of JavaScript files that this bundle contains
      */
     public $js = [
-        'swagger-ui-bundle.js',
-        'swagger-ui-standalone-preset.js',
+        'swagger-ui.js', // v2
+        //'swagger-ui-bundle.js', v3
+        //'swagger-ui-standalone-preset.js', v3
     ];
 
     /**
      * @var array list of CSS files that this bundle contains
      */
     public $css = [
-        'swagger-ui.css',
+        //'swagger-ui.css', v3
     ];
 }
